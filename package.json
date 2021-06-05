@@ -1,0 +1,24 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "This is testing data",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujproj/CourseraHongKong.git"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujproj/CourseraHongKong/issues"
+  },
+  "homepage": "https://github.com/mujproj/CourseraHongKong#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
